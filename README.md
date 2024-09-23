@@ -1,6 +1,6 @@
 # Health & Nutrition Tracker
 
-Description
+
 The Health & Nutrition Tracker is a user-friendly web application designed to help users track their daily food intake and monitor nutritional information. Leveraging the Nutritionix API, the app allows users to search for various foods, log their meals, and view detailed nutritional data including calories, protein, carbohydrates, and more.
 
 Features
