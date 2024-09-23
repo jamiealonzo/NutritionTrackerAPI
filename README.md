@@ -12,10 +12,12 @@ Responsive Design: Modern and user-friendly interface, optimized for both deskto
 
 
 Technologies Used
+
 HTML, CSS, JavaScript
 Nutritionix API for nutritional data
 LocalStorage for meal logging
 
 
 Getting Started
+
 To get started, simply clone the repository, open the index.html file in your web browser, and start tracking your nutrition!
